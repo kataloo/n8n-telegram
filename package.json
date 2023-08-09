@@ -1,11 +1,10 @@
 {
 	"name": "n8n-nodes-tgram",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Custom tg n8n node",
 	"keywords": [
 		"n8n",
 		"node",
-		"discord",
 		"trigger",
 		"n8n-node",
 		"n8n-community-node-package"
